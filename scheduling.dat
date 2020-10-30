@@ -1,0 +1,21 @@
+data;
+
+param NumJobs := 2;
+
+param NumMachines := 3;
+
+param p: 
+		1	2 :=
+	1	1	2
+	2	1	2
+	3	5	1;
+	
+param BigM := 100; 
+	
+param a:
+	    1   2  :=
+	1	1	2
+	2	2	1
+	3   3	3;	
+                  
+	
